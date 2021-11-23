@@ -21,7 +21,6 @@ class BubbleSort {
                 }
     }
 
-    /* Prints the array */
     void printArray(int[] arr) {
         int n = arr.length;
         for (int i = 0; i < n; ++i)
