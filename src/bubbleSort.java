@@ -1,6 +1,5 @@
 // Java program for Bubble Sort
 class BubbleSort {
-    // Driver method to test above
     public static void main(String[] args) {
         BubbleSort ob = new BubbleSort();
         int[] arr = {64, 34, 25, 12, 22, 11, 90};
